@@ -1,7 +1,3 @@
-// Inesh Bose
-// 2504266B
-
-
 public class WaterMonster extends Monster {
 	
 	/** Constructor taking only two parameters */

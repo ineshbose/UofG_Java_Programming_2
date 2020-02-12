@@ -1,5 +1,3 @@
-// Inesh Bose (2504266B)
-
 package battle;
 import battle.Battle;
 import monster.Monster;

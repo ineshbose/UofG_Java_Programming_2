@@ -1,7 +1,3 @@
-// Inesh Bose
-// 2504266B
-
-
 int computeFibonacci(int n){
 	
 	int result=1,lastResult=1;

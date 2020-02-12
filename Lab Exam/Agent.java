@@ -1,13 +1,9 @@
-// Inesh Bose (2504266B)
-
 package planning;
 import java.util.Random;
 import java.util.Set;
 
 /**
  * Class Agent with field of type Thing.
- * 
- * @author 2504266B
  */
 public class Agent {
 

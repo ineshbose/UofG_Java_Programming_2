@@ -1,5 +1,3 @@
-// Inesh Bose (2504266B)
-
 package gui;
 
 import java.awt.BorderLayout;

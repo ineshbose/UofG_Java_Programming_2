@@ -1,7 +1,3 @@
-// Inesh Bose
-// 2504266B
-
-
 public class FireMonster extends Monster {
 	
 	/** To keep track of occurances */

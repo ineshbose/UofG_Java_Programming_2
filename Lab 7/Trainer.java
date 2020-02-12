@@ -1,5 +1,3 @@
-// Inesh Bose (2504266B)
-
 package trainer;
 
 import java.io.IOException;

@@ -1,7 +1,3 @@
-// Inesh Bose
-// 2504266B
-
-
 public class Attack {
 	
 	/** Name of the attack */

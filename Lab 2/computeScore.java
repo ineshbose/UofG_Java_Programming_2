@@ -1,7 +1,3 @@
-// Inesh Bose
-// 2504266B
-
-
 int computeScore (String word) {
 	
 	/* In order to calculate the score, 'score' is declared and initiated,

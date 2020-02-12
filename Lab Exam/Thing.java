@@ -1,11 +1,7 @@
-// Inesh Bose (2504266B)
-
 package planning;
 
 /**
  * Class Thing with fields 'name' and 'location'.
- * 
- * @author 2504266B
  */
 public class Thing {
 

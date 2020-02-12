@@ -1,6 +1,3 @@
-// Inesh Bose
-// 2504266B
-
 boolean checkCardNumber (String cardNumber) {
 	
 	boolean finalResult=false,checkLength=false,checkDigit=false;

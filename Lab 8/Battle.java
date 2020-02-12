@@ -1,5 +1,3 @@
-// Inesh Bose (2504266B)
-
 package battle;
 import java.util.concurrent.locks.*;
 import java.util.concurrent.atomic.AtomicReference;

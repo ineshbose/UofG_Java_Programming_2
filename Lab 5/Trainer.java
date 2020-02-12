@@ -1,6 +1,3 @@
-// Inesh Bose
-// 2504266B
-
 package trainer;
 import monster.Monster;
 import java.util.*;

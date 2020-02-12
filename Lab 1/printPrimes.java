@@ -1,7 +1,3 @@
-// Inesh Bose
-// 2504266B
-
-
 void printPrimes(int max){
 	
 	for(int n=2;n<=max;n++){

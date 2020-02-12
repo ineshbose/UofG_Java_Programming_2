@@ -1,7 +1,3 @@
-// Inesh Bose
-// 2504266B
-
-
 public abstract class Monster {
 
 	/** The type */

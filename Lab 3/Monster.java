@@ -1,9 +1,4 @@
 import java.util.Arrays;
-
-// Inesh Bose
-// 2504266B
-
-
 public class Monster {
 	
 	private String type;
